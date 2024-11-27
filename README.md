@@ -33,12 +33,6 @@ banco-digital/
 ├── README.md              # Documentação do projeto
 └── .gitignore             # Arquivos e pastas ignorados pelo Git
 
-Aqui está um modelo básico de README.md para o seu projeto de Banco Digital. Você pode personalizá-lo conforme necessário:
-
-markdown
-Copiar código
-# Banco Digital
-
 Este projeto é uma implementação de um sistema de banco digital utilizando conceitos de **Programação Orientada a Objetos (POO)** em Java. É parte de um desafio prático baseado em um projeto de referência.
 
 ## 🚀 Funcionalidades
